@@ -1,0 +1,15 @@
+#Thu May 20 10:18:05 CEST 2021
+configuration*?=3EDB03DBF6317A577884D3811F48AC824BB720F0
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Flight.java=1621498505532
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/BookFlightTest.java=1621498505541
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/resources/application.properties=1621498505536
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/resources/application.properties=1621498505543
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/service/HotelBookingService.java=1621498505534
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/TravelTest.java=1621498505542
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/service/FlightBookingService.java=1621498505534
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Traveller.java=1621498505533
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Address.java=1621498505532
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Hotel.java=1621498505533
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/BookHotelTest.java=1621498505542
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Trip.java=1621498505533
+/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/VisaRulesTest.java=1621498505543

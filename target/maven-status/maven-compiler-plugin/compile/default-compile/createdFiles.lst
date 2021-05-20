@@ -1,0 +1,7 @@
+org/acme/travels/Trip.class
+org/acme/travels/Hotel.class
+org/acme/travels/service/FlightBookingService.class
+org/acme/travels/service/HotelBookingService.class
+org/acme/travels/Flight.class
+org/acme/travels/Address.class
+org/acme/travels/Traveller.class

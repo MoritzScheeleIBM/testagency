@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Hotel.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Address.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/service/HotelBookingService.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/service/FlightBookingService.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Flight.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Traveller.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/java/org/acme/travels/Trip.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/BookHotelTest.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/TravelTest.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/BookFlightTest.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/java/org/acme/travel/VisaRulesTest.java">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/main/resources/application.properties">
+</file>
+<file name="/Users/moritzscheele/Desktop/IBM/kogito-examples/kogito-travel-agency/basic/src/test/resources/application.properties">
+</file>
+</checkstyle>
